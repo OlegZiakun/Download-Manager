@@ -1,8 +1,6 @@
 #include <QByteArray>
 #include <QMessageBox>
 #include <QDir>
-#include <QtTest/QtTest>
-#include <QDebug>
 #include "download.h"
 #include "unittests.h"
 
