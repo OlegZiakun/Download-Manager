@@ -1,6 +1,6 @@
-/*
-    Copyright (C) Oleg Ziakun
-*/
+#
+#   Copyright (C) Oleg Ziakun
+#
 
 QT  += core gui network testlib
 
