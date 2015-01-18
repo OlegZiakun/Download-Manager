@@ -13,17 +13,17 @@ TARGET = DownloadManager
 TEMPLATE = app
 
 SOURCES += main.cpp
-SOURCES +=  display.cpp
+SOURCES += display.cpp
 SOURCES += mainwindow.cpp
 SOURCES += networkmanager.cpp
 SOURCES += download.cpp
-SOURCES +=progressbar.cpp
+SOURCES += progressbar.cpp
 
 HEADERS += mainwindow.h
 HEADERS += unittests.h
 HEADERS += display.h
 HEADERS += networkmanager.h
 HEADERS += download.h
-HEADERS +=progressbar.h
+HEADERS += progressbar.h
 
 FORMS  += mainwindow.ui

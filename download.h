@@ -31,7 +31,6 @@ private slots:
 
 private:
     void launch(const QUrl &url, const QString &fileName);
-
     bool checkFile(const QString &fileName);
     bool isRequestValid(const QUrl &url);
     bool isSchemeValid(const QUrl &url);
