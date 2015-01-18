@@ -1,6 +1,5 @@
 #include <QMessageBox>
 #include "networkmanager.h"
-//#include <QtTest/QtTest>
 
 NetworkManager::NetworkManager(QObject *parent) :
     QNetworkAccessManager(parent)

@@ -33,7 +33,6 @@ private:
 protected:
     QNetworkReply *reply;
     QNetworkRequest request;
-    QString replyString; // TODO: delete replyString?
 };
 
 #endif // NETWORKMANAGER_H

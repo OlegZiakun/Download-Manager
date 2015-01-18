@@ -2,8 +2,6 @@
 #include <QMessageBox>
 #include <QDir>
 #include <QtTest/QtTest>
-#include <QPixmap>
-#include <QPainter>
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "unittests.h"

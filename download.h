@@ -3,7 +3,6 @@
 
 #include <QFile>
 #include <QFileInfo>
-#include <QtTest/QtTest>
 #include "networkmanager.h"
 #include "display.h"
 #include "ui_mainwindow.h"
