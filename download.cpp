@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include <QByteArray>
 #include <QMessageBox>
 #include <QDir>

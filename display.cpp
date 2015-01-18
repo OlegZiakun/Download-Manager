@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include "display.h"
 
 Display::Display(Ui::MainWindow *mw, QObject *parent) :

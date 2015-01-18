@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #ifndef NETWORKMANAGER_H
 #define NETWORKMANAGER_H
 

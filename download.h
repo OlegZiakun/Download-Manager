@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #ifndef WDOWNLOAD_H
 #define WDOWNLOAD_H
 

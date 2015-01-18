@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include <QMessageBox>
 #include "networkmanager.h"
 

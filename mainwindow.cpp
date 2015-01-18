@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QDir>

@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include "mainwindow.h"
 #include <QApplication>
 

@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #ifndef DISPLAY_H
 #define DISPLAY_H
 

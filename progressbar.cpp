@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include "progressbar.h"
 
 ProgressBar::ProgressBar(QWidget *parent) :

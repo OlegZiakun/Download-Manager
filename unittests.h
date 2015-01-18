@@ -2,6 +2,10 @@
 #define UNITTESTS_H
 
 #include <QtTest/QtTest>
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #include <QObject>
 #include "ui_mainwindow.h"
 #include "download.h"

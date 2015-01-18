@@ -1,3 +1,7 @@
+/*
+    Copyright (C) Oleg Ziakun
+*/
+
 #ifndef PROGRESSBAR_H
 #define PROGRESSBAR_H
 
