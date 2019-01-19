@@ -1,4 +1,2 @@
 # Download-Manager
-Qt Download Manager
-
-testing on Mac
+Cross-platform Qt Download Manager.
